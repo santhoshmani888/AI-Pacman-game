@@ -1,0 +1,1 @@
+In this project, we will design three classifiers: a naive Bayes classifier, a perceptron classifier and a large-margin (MIRA) classifier. we will test your classifiers on two image data sets: a set of scanned handwritten digit images and a set of face images in which edges have already been detected. 
